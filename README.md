@@ -2,9 +2,9 @@
 
 This is basically just a React version of a vanilla JavaScript project inspired by one of Brad Traversy's tutorials. ( https://www.udemy.com/course/web-projects-with-vanilla-javascript/ ) I changed some of the styling and refactored the code into a much smaller React code base using hooks.
 
-Continuously deployed at -->
+Continuously deployed at --> https://flash-cards-react.netlify.app/
 
-
+[![Netlify Status](https://api.netlify.com/api/v1/badges/6cd8d9ef-1028-4e05-ae84-cdcc5f7dd5fa/deploy-status)](https://app.netlify.com/sites/flash-cards-react/deploys)
 ### To do's
 
 1. Fix the add cards container 
